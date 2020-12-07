@@ -1,3 +1,3 @@
 # Image To Text Converter App
 
-Click Here to See: [Demo](https://github.com/facebook/create-react-app).
+Click Here to See: [Demo](https://image-to-text-reactjs.netlify.app/).
